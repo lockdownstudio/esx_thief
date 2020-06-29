@@ -1,5 +1,5 @@
-# esx_thief
-ESX Thief
+# fxserver-esx_thief
+FXServer ESX Thief
 
 Rework from the original esx_thief.
 
